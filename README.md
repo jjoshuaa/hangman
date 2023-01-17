@@ -1,2 +1,2 @@
-# hangman
+# hangman 🤵
 hangman game lol
